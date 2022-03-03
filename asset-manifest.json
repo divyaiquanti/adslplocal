@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/adslplocal/static/css/main.073c9b0a.css",
-    "main.js": "/adslplocal/static/js/main.d84b04df.js",
+    "main.css": "/adslplocal/static/css/main.31d6cfe0.css",
+    "main.js": "/adslplocal/static/js/main.6cda0656.js",
+    "static/css/174.ea48aa0b.chunk.css": "/adslplocal/static/css/174.ea48aa0b.chunk.css",
+    "static/js/174.729e8924.chunk.js": "/adslplocal/static/js/174.729e8924.chunk.js",
+    "static/css/259.ea48aa0b.chunk.css": "/adslplocal/static/css/259.ea48aa0b.chunk.css",
+    "static/js/259.c7d3f7a1.chunk.js": "/adslplocal/static/js/259.c7d3f7a1.chunk.js",
+    "static/css/291.ea48aa0b.chunk.css": "/adslplocal/static/css/291.ea48aa0b.chunk.css",
+    "static/js/291.9c770965.chunk.js": "/adslplocal/static/js/291.9c770965.chunk.js",
     "static/js/787.5480e000.chunk.js": "/adslplocal/static/js/787.5480e000.chunk.js",
-    "static/media/logo.svg": "/adslplocal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/js/19.fe40c967.chunk.js": "/adslplocal/static/js/19.fe40c967.chunk.js",
     "index.html": "/adslplocal/index.html",
-    "main.073c9b0a.css.map": "/adslplocal/static/css/main.073c9b0a.css.map",
-    "main.d84b04df.js.map": "/adslplocal/static/js/main.d84b04df.js.map",
-    "787.5480e000.chunk.js.map": "/adslplocal/static/js/787.5480e000.chunk.js.map"
+    "main.6cda0656.js.map": "/adslplocal/static/js/main.6cda0656.js.map",
+    "174.ea48aa0b.chunk.css.map": "/adslplocal/static/css/174.ea48aa0b.chunk.css.map",
+    "174.729e8924.chunk.js.map": "/adslplocal/static/js/174.729e8924.chunk.js.map",
+    "259.ea48aa0b.chunk.css.map": "/adslplocal/static/css/259.ea48aa0b.chunk.css.map",
+    "259.c7d3f7a1.chunk.js.map": "/adslplocal/static/js/259.c7d3f7a1.chunk.js.map",
+    "291.ea48aa0b.chunk.css.map": "/adslplocal/static/css/291.ea48aa0b.chunk.css.map",
+    "291.9c770965.chunk.js.map": "/adslplocal/static/js/291.9c770965.chunk.js.map",
+    "787.5480e000.chunk.js.map": "/adslplocal/static/js/787.5480e000.chunk.js.map",
+    "19.fe40c967.chunk.js.map": "/adslplocal/static/js/19.fe40c967.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d84b04df.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.6cda0656.js"
   ]
 }
